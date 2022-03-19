@@ -5,5 +5,4 @@ With this, the people of the future will be able to easily understand the inform
 
 
 <img src="https://user-images.githubusercontent.com/96917595/159038353-abc50c9f-54f3-4c0c-a053-003c80a14933.gif">
-![Your Repository's Stats](https://contrib.rocks/image?repo=Remember-Scouts/scout)
-## 4. Random Joke Generator
+
